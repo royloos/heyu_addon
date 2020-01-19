@@ -1,0 +1,10 @@
+{
+  "name": "heyu",
+  "version": "1",
+  "slug": "heyu",
+  "description": "heyu addon",
+  "startup": "before",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
